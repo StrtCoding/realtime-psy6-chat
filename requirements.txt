@@ -1,0 +1,4 @@
+pyside6
+requests
+python-socketio
+websocket-client
